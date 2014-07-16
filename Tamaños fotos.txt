@@ -1,0 +1,22 @@
+gallery-1= http://zolfunza.com/
+gallery-3= http://bamboo-intranet.com/
+gallery-4=http://corazonesresponsables.org/corazones-thao/
+gallery-5= http://katherincaselles.com/
+gallery-6= =artista
+gallery-7= http://javiermera.com/#home
+gallery-8=http://www.contelacsostenible.com/
+gallery-9=http://incelta.com/
+gallery-11=http://codispetrol.com.co/
+
+
+reunión 
+- las cajas fueran iguales(Adriana)
+- play holder (Alejo)
+- pàginas internas (jonthan)
+- imagen uno (no ocupa el 100%), propiedad bacground 
+- codispetrol (quedaria)
+-la linea igual
+- un punto a las letras grises
+-Una pequeñas descripcion de cada secciòn (jonathan)
+-escalar la imagen del grupo
+-backgrong 80%
